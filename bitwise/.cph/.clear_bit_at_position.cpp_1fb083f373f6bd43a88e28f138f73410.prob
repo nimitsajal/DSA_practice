@@ -1,0 +1,1 @@
+{"name":"Local: clear_bit_at_position","url":"/Users/nimitsajal/Documents/Learning/DSA/Apna College/bitwise/clear_bit_at_position.cpp","tests":[{"id":1625799447198,"input":"5\n1","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/nimitsajal/Documents/Learning/DSA/Apna College/bitwise/clear_bit_at_position.cpp","group":"local","local":true}
