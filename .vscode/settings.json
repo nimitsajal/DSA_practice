@@ -46,6 +46,7 @@
         "sstream": "cpp",
         "charconv": "cpp",
         "tuple": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "queue": "cpp"
     }
 }
